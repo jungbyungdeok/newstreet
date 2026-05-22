@@ -1,0 +1,46 @@
+baseURL = 'https://yourdomain.com/'
+title = 'ALMAIDE ARCHIVE'
+theme = 'PaperMod'
+defaultContentLanguage = 'ko'
+
+[pagination]
+pagerSize = 10
+
+[params]
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowToc = true
+
+[params.homeInfoParams]
+Title = "NEWSREERT"
+Content = "뉴스트리트 매거진"
+
+[[menu.main]]
+name = "Cinema"
+url = "/cinema/"
+weight = 1
+
+[[menu.main]]
+name = "Fashion"
+url = "/fashion/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+url = "/archive/"
+weight = 3
+
+[[menu.main]]
+name = "Essays"
+url = "/essays/"
+weight = 4
+
+[[menu.main]]
+name = "Wellness"
+url = "/wellness/"
+weight = 5
