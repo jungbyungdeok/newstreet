@@ -1,5 +1,6 @@
-baseURL = 'https://yourdomain.com/'
-title = 'ALMAIDE ARCHIVE'
+baseURL = 'https://jungbyungdeok.github.io/newstreet/'
+languageCode = 'ko-kr'
+title = 'NEWSTREET'
 theme = 'PaperMod'
 defaultContentLanguage = 'ko'
 

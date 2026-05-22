@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ALMAIDE ARCHIVE</title>
-    <link>https://yourdomain.com/posts/</link>
-    <description>Recent content in Posts on ALMAIDE ARCHIVE</description>
+    <title>Posts on NEWSTREET</title>
+    <link>https://jungbyungdeok.github.io/newstreet/posts/</link>
+    <description>Recent content in Posts on NEWSTREET</description>
     <generator>Hugo</generator>
-    <language>ko</language>
+    <language>ko-kr</language>
     <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yourdomain.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jungbyungdeok.github.io/newstreet/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>new wave</title>
-      <link>https://yourdomain.com/posts/first-issue/</link>
+      <link>https://jungbyungdeok.github.io/newstreet/posts/first-issue/</link>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://yourdomain.com/posts/first-issue/</guid>
+      <guid>https://jungbyungdeok.github.io/newstreet/posts/first-issue/</guid>
       <description>&lt;h1 id=&#34;소개&#34;&gt;소개&lt;/h1&gt;</description>
     </item>
   </channel>
